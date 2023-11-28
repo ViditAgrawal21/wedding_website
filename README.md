@@ -13,4 +13,6 @@ A beautiful, feature rich, device friendly wedding website.
 8. Start and run the website __completely free__. No hosting, backend server, or database required as you can use
    [GitHub Pages](https://pages.github.com/) to host and Google sheets (with the help of Google scripts) to store RSVP
    data.
+![DivyarsH](https://github.com/ViditAgrawal21/wedding_website/assets/88889165/4a551723-c798-4913-95c9-5172872ef7a1)\
+SCAN THIS QR CODE AND YOUR GOOD TO GO...
 

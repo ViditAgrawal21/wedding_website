@@ -15,5 +15,5 @@ A beautiful, feature rich, device friendly wedding website.
    data.
    
 ![DivyarsH](https://github.com/ViditAgrawal21/wedding_website/assets/88889165/4a551723-c798-4913-95c9-5172872ef7a1)\
-SCAN THIS QR CODE AND YOUR GOOD TO GO...
+SCAN THIS QR CODE AND YOU ARE GOOD TO GO...
 

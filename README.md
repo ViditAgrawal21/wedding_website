@@ -14,7 +14,8 @@ A beautiful, feature rich, device friendly wedding website.
    [GitHub Pages](https://pages.github.com/) to host and Google sheets (with the help of Google scripts) to store RSVP
    data.
    
-![DivyarsH](https://github.com/ViditAgrawal21/wedding_website/assets/88889165/54acd46a-abc0-4d89-9055-b5f1ef265901)
+![DiyarsH](https://github.com/ViditAgrawal21/wedding_website/assets/88889165/3b460e7c-ee6e-49f8-a15d-0217bcdb237a)
+
 
 
 SCAN THIS QR CODE AND YOU ARE GOOD TO GO...
